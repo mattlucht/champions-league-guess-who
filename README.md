@@ -1,12 +1,12 @@
 # ⚽ Champions League Guess Who
 
-A mobile-friendly web application that brings the classic "Guess Who?" game to UEFA Champions League winners. Perfect for football fans who want to test their knowledge of Champions League history!
+A web application that brings the classic "Guess Who?" game to UEFA Champions League winners. Perfect for football fans who want to test their knowledge of Champions League history!
 
 ## 🎮 How to Play
 
 ### Setup
-- **Players**: 2 or more people
-- **Device**: One person holds the mobile device/tablet
+- **Players**: You can play by yourself or in a group
+- **Device**: Works in any web browser
 - **Objective**: Guess the randomly selected Champions League winner through yes/no questions
 
 ### Game Flow
@@ -30,7 +30,7 @@ A mobile-friendly web application that brings the classic "Guess Who?" game to U
 ## 📱 Features
 
 - **Mobile-Optimized**: Designed for smartphones and tablets
-- **25 Legendary Players**: From Zidane to Messi to modern stars
+- **200 players**: From Zidane to Messi to modern stars
 - **Rich Player Data**: Position, nationality, teams, final goals, and more
 - **Interactive Interface**: Easy-to-read information cards
 - **Responsive Design**: Works on all screen sizes
@@ -40,10 +40,10 @@ A mobile-friendly web application that brings the classic "Guess Who?" game to U
 The game includes Champions League winners from different eras:
 
 ### Positions Covered
-- **Goalkeepers**: Iker Casillas, Manuel Neuer, Petr Cech
-- **Defenders**: Sergio Ramos, Paolo Maldini, Virgil van Dijk, John Terry
-- **Midfielders**: Zinedine Zidane, Xavi, Iniesta, Luka Modric, Andrea Pirlo
-- **Attackers**: Lionel Messi, Cristiano Ronaldo, Samuel Eto'o, Gareth Bale
+- **Goalkeepers**
+- **Defenders**
+- **Midfielders**
+- **Attackers**
 
 ### Geographic Diversity
 - **Europe**: Spain, France, Italy, England, Germany, Croatia, Wales, Netherlands
@@ -143,5 +143,3 @@ This is an open-source project! Contributions welcome:
 ## ⚽ About
 
 Created for Champions League fans who love the history and legends of European football's premier competition. Perfect for pre-match entertainment, football trivia nights, or testing your Champions League knowledge!
-
-**Enjoy the game and may the best guesser win!** 🏆
