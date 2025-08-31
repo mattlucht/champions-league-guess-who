@@ -5,12 +5,27 @@
     "position": "Midfielder",
     "nationality": "French",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2002],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2002
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2002 vs Bayer Leverkusen (winning goal)"],
+    "finalGoals": [
+      "2002 vs Bayer Leverkusen (winning goal)"
+    ],
     "age": 29,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": true,
+    "worldCupWinner": true,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 2,
@@ -18,12 +33,30 @@
     "position": "Defender",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2014, 2016, 2017, 2018],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2014,
+      2016,
+      2017,
+      2018
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2014 vs Atletico Madrid (equalizer)"],
+    "finalGoals": [
+      "2014 vs Atletico Madrid (equalizer)"
+    ],
     "age": 28,
-    "captainInFinal": true
+    "captainInFinal": true,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 3,
@@ -31,12 +64,30 @@
     "position": "Attacker",
     "nationality": "Portuguese",
     "continent": "Europe",
-    "teamsWon": ["Manchester United", "Real Madrid"],
-    "yearsWon": [2008, 2014, 2016, 2017, 2018],
+    "teamsWon": [
+      "Manchester United",
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2008,
+      2014,
+      2016,
+      2017,
+      2018
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 23,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": true,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 4,
@@ -44,12 +95,31 @@
     "position": "Attacker",
     "nationality": "Argentinian",
     "continent": "South America",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2006, 2009, 2011, 2015],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2006,
+      2009,
+      2011,
+      2015
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2009 vs Manchester United", "2011 vs Manchester United"],
+    "finalGoals": [
+      "2009 vs Manchester United",
+      "2011 vs Manchester United"
+    ],
     "age": 19,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": true,
+    "worldCupWinner": true,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": true,
+    "playingEra": "2000s",
+    "preferredFoot": "Left"
   },
   {
     "id": 5,
@@ -57,12 +127,30 @@
     "position": "Goalkeeper",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2000, 2002, 2014, 2016, 2017, 2018],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2000,
+      2002,
+      2014,
+      2016,
+      2017,
+      2018
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 19,
-    "captainInFinal": true
+    "captainInFinal": true,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 6,
@@ -70,12 +158,30 @@
     "position": "Attacker",
     "nationality": "Cameroonian",
     "continent": "Africa",
-    "teamsWon": ["Barcelona", "Inter Milan"],
-    "yearsWon": [2006, 2009, 2010],
+    "teamsWon": [
+      "Barcelona",
+      "Inter Milan"
+    ],
+    "yearsWon": [
+      2006,
+      2009,
+      2010
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2006 vs Arsenal"],
+    "finalGoals": [
+      "2006 vs Arsenal"
+    ],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 7,
@@ -83,12 +189,26 @@
     "position": "Midfielder",
     "nationality": "Italian",
     "continent": "Europe",
-    "teamsWon": ["AC Milan"],
-    "yearsWon": [2003, 2007],
+    "teamsWon": [
+      "AC Milan"
+    ],
+    "yearsWon": [
+      2003,
+      2007
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 24,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": true,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 8,
@@ -96,12 +216,31 @@
     "position": "Defender",
     "nationality": "Italian",
     "continent": "Europe",
-    "teamsWon": ["AC Milan"],
-    "yearsWon": [1990, 1994, 2003, 2007],
+    "teamsWon": [
+      "AC Milan"
+    ],
+    "yearsWon": [
+      1990,
+      1994,
+      2003,
+      2007
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2005 vs Liverpool (though Milan lost)", "2007 vs Liverpool"],
+    "finalGoals": [
+      "2005 vs Liverpool (though Milan lost)",
+      "2007 vs Liverpool"
+    ],
     "age": 22,
-    "captainInFinal": true
+    "captainInFinal": true,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Left"
   },
   {
     "id": 9,
@@ -109,12 +248,28 @@
     "position": "Midfielder",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2006, 2009, 2011, 2015],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2006,
+      2009,
+      2011,
+      2015
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": true,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 10,
@@ -122,12 +277,28 @@
     "position": "Midfielder",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2006, 2009, 2011, 2015],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2006,
+      2009,
+      2011,
+      2015
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 22,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": true,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 11,
@@ -135,12 +306,25 @@
     "position": "Midfielder",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["AC Milan"],
-    "yearsWon": [2007],
+    "teamsWon": [
+      "AC Milan"
+    ],
+    "yearsWon": [
+      2007
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": true,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 12,
@@ -148,12 +332,25 @@
     "position": "Attacker",
     "nationality": "French",
     "continent": "Europe",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2009],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2009
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 31,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": true,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 13,
@@ -161,12 +358,25 @@
     "position": "Attacker",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2006],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2006
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": true,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 14,
@@ -174,12 +384,25 @@
     "position": "Midfielder",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Chelsea"],
-    "yearsWon": [2012],
+    "teamsWon": [
+      "Chelsea"
+    ],
+    "yearsWon": [
+      2012
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 33,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 15,
@@ -187,12 +410,25 @@
     "position": "Defender",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Chelsea"],
-    "yearsWon": [2012],
+    "teamsWon": [
+      "Chelsea"
+    ],
+    "yearsWon": [
+      2012
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 31,
-    "captainInFinal": true
+    "captainInFinal": true,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 16,
@@ -200,12 +436,27 @@
     "position": "Attacker",
     "nationality": "Ivorian",
     "continent": "Africa",
-    "teamsWon": ["Chelsea"],
-    "yearsWon": [2012],
+    "teamsWon": [
+      "Chelsea"
+    ],
+    "yearsWon": [
+      2012
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2012 vs Bayern Munich (equalizer)"],
+    "finalGoals": [
+      "2012 vs Bayern Munich (equalizer)"
+    ],
     "age": 34,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 17,
@@ -213,12 +464,25 @@
     "position": "Goalkeeper",
     "nationality": "Czech",
     "continent": "Europe",
-    "teamsWon": ["Chelsea"],
-    "yearsWon": [2012],
+    "teamsWon": [
+      "Chelsea"
+    ],
+    "yearsWon": [
+      2012
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 29,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 18,
@@ -226,12 +490,30 @@
     "position": "Attacker",
     "nationality": "Welsh",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2014, 2016, 2017, 2018],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2014,
+      2016,
+      2017,
+      2018
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2018 vs Liverpool (2 goals including bicycle kick)"],
+    "finalGoals": [
+      "2018 vs Liverpool (2 goals including bicycle kick)"
+    ],
     "age": 24,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Left"
   },
   {
     "id": 19,
@@ -239,12 +521,28 @@
     "position": "Midfielder",
     "nationality": "Croatian",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2014, 2016, 2017, 2018],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2014,
+      2016,
+      2017,
+      2018
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 28,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": true,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 20,
@@ -252,12 +550,25 @@
     "position": "Defender",
     "nationality": "Dutch",
     "continent": "Europe",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2019],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2019
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 27,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 21,
@@ -265,12 +576,27 @@
     "position": "Attacker",
     "nationality": "Egyptian",
     "continent": "Africa",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2019],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2019
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2019 vs Tottenham (penalty)"],
+    "finalGoals": [
+      "2019 vs Tottenham (penalty)"
+    ],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Left"
   },
   {
     "id": 22,
@@ -278,12 +604,25 @@
     "position": "Attacker",
     "nationality": "Senegalese",
     "continent": "Africa",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2019],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2019
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 27,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 23,
@@ -291,12 +630,25 @@
     "position": "Midfielder",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2019],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2019
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 29,
-    "captainInFinal": true
+    "captainInFinal": true,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 24,
@@ -304,12 +656,25 @@
     "position": "Attacker",
     "nationality": "Polish",
     "continent": "Europe",
-    "teamsWon": ["Bayern Munich"],
-    "yearsWon": [2020],
+    "teamsWon": [
+      "Bayern Munich"
+    ],
+    "yearsWon": [
+      2020
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 31,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2020s",
+    "preferredFoot": "Right"
   },
   {
     "id": 25,
@@ -317,12 +682,26 @@
     "position": "Goalkeeper",
     "nationality": "German",
     "continent": "Europe",
-    "teamsWon": ["Bayern Munich"],
-    "yearsWon": [2013, 2020],
+    "teamsWon": [
+      "Bayern Munich"
+    ],
+    "yearsWon": [
+      2013,
+      2020
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 27,
-    "captainInFinal": true
+    "captainInFinal": true,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 26,
@@ -330,12 +709,27 @@
     "position": "Attacker",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2002],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2002
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2002 vs Bayer Leverkusen"],
+    "finalGoals": [
+      "2002 vs Bayer Leverkusen"
+    ],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": true,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 27,
@@ -343,12 +737,27 @@
     "position": "Defender",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [1998, 2000, 2002],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      1998,
+      2000,
+      2002
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 28,
@@ -356,12 +765,27 @@
     "position": "Attacker",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [1998, 2000, 2002],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      1998,
+      2000,
+      2002
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 21,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 29,
@@ -369,12 +793,29 @@
     "position": "Attacker",
     "nationality": "French",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2014, 2016, 2017, 2018, 2022],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2022
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 30,
@@ -382,12 +823,30 @@
     "position": "Midfielder",
     "nationality": "German",
     "continent": "Europe",
-    "teamsWon": ["Bayern Munich", "Real Madrid"],
-    "yearsWon": [2013, 2014, 2016, 2017, 2018],
+    "teamsWon": [
+      "Bayern Munich",
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2013,
+      2014,
+      2016,
+      2017,
+      2018
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 24,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 31,
@@ -395,12 +854,25 @@
     "position": "Goalkeeper",
     "nationality": "Italian",
     "continent": "Europe",
-    "teamsWon": ["Juventus"],
-    "yearsWon": [1996],
+    "teamsWon": [
+      "Juventus"
+    ],
+    "yearsWon": [
+      1996
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 18,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 32,
@@ -408,12 +880,27 @@
     "position": "Defender",
     "nationality": "Italian",
     "continent": "Europe",
-    "teamsWon": ["AC Milan"],
-    "yearsWon": [1989, 1990, 1994],
+    "teamsWon": [
+      "AC Milan"
+    ],
+    "yearsWon": [
+      1989,
+      1990,
+      1994
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 29,
-    "captainInFinal": true
+    "captainInFinal": true,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 33,
@@ -421,12 +908,30 @@
     "position": "Midfielder",
     "nationality": "Dutch",
     "continent": "Europe",
-    "teamsWon": ["Ajax", "Real Madrid", "AC Milan"],
-    "yearsWon": [1995, 1998, 2003, 2007],
+    "teamsWon": [
+      "Ajax",
+      "Real Madrid",
+      "AC Milan"
+    ],
+    "yearsWon": [
+      1995,
+      1998,
+      2003,
+      2007
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 19,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 34,
@@ -434,12 +939,27 @@
     "position": "Attacker",
     "nationality": "Dutch",
     "continent": "Europe",
-    "teamsWon": ["Bayern Munich"],
-    "yearsWon": [2013],
+    "teamsWon": [
+      "Bayern Munich"
+    ],
+    "yearsWon": [
+      2013
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2013 vs Borussia Dortmund (winning goal)"],
+    "finalGoals": [
+      "2013 vs Borussia Dortmund (winning goal)"
+    ],
     "age": 29,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 35,
@@ -447,12 +967,25 @@
     "position": "Attacker",
     "nationality": "French",
     "continent": "Europe",
-    "teamsWon": ["Bayern Munich"],
-    "yearsWon": [2013],
+    "teamsWon": [
+      "Bayern Munich"
+    ],
+    "yearsWon": [
+      2013
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 30,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 36,
@@ -460,12 +993,26 @@
     "position": "Defender",
     "nationality": "German",
     "continent": "Europe",
-    "teamsWon": ["Bayern Munich"],
-    "yearsWon": [2013, 2020],
+    "teamsWon": [
+      "Bayern Munich"
+    ],
+    "yearsWon": [
+      2013,
+      2020
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 29,
-    "captainInFinal": true
+    "captainInFinal": true,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 37,
@@ -473,12 +1020,25 @@
     "position": "Midfielder",
     "nationality": "German",
     "continent": "Europe",
-    "teamsWon": ["Bayern Munich"],
-    "yearsWon": [2013],
+    "teamsWon": [
+      "Bayern Munich"
+    ],
+    "yearsWon": [
+      2013
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 28,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 38,
@@ -486,12 +1046,25 @@
     "position": "Attacker",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2015],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2015
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 23,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 39,
@@ -499,12 +1072,25 @@
     "position": "Attacker",
     "nationality": "Uruguayan",
     "continent": "South America",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2015],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2015
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 28,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 40,
@@ -512,12 +1098,27 @@
     "position": "Defender",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2009, 2011, 2015],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2009,
+      2011,
+      2015
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 22,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 41,
@@ -525,12 +1126,27 @@
     "position": "Defender",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2009, 2011, 2015],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2009,
+      2011,
+      2015
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 42,
@@ -538,12 +1154,28 @@
     "position": "Defender",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2014, 2016, 2017, 2018],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2014,
+      2016,
+      2017,
+      2018
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 43,
@@ -551,12 +1183,27 @@
     "position": "Attacker",
     "nationality": "Argentinian",
     "continent": "South America",
-    "teamsWon": ["Inter Milan"],
-    "yearsWon": [2010],
+    "teamsWon": [
+      "Inter Milan"
+    ],
+    "yearsWon": [
+      2010
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2010 vs Bayern Munich (2 goals)"],
+    "finalGoals": [
+      "2010 vs Bayern Munich (2 goals)"
+    ],
     "age": 30,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 44,
@@ -564,12 +1211,25 @@
     "position": "Midfielder",
     "nationality": "Dutch",
     "continent": "Europe",
-    "teamsWon": ["Inter Milan"],
-    "yearsWon": [2010],
+    "teamsWon": [
+      "Inter Milan"
+    ],
+    "yearsWon": [
+      2010
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 45,
@@ -577,12 +1237,25 @@
     "position": "Defender",
     "nationality": "Argentinian",
     "continent": "South America",
-    "teamsWon": ["Inter Milan"],
-    "yearsWon": [2010],
+    "teamsWon": [
+      "Inter Milan"
+    ],
+    "yearsWon": [
+      2010
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 36,
-    "captainInFinal": true
+    "captainInFinal": true,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 46,
@@ -590,12 +1263,25 @@
     "position": "Goalkeeper",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["Inter Milan"],
-    "yearsWon": [2010],
+    "teamsWon": [
+      "Inter Milan"
+    ],
+    "yearsWon": [
+      2010
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 30,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 47,
@@ -603,12 +1289,25 @@
     "position": "Midfielder",
     "nationality": "French",
     "continent": "Europe",
-    "teamsWon": ["Chelsea"],
-    "yearsWon": [2021],
+    "teamsWon": [
+      "Chelsea"
+    ],
+    "yearsWon": [
+      2021
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 30,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2020s",
+    "preferredFoot": "Right"
   },
   {
     "id": 48,
@@ -616,12 +1315,25 @@
     "position": "Midfielder",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Chelsea"],
-    "yearsWon": [2021],
+    "teamsWon": [
+      "Chelsea"
+    ],
+    "yearsWon": [
+      2021
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 22,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2020s",
+    "preferredFoot": "Right"
   },
   {
     "id": 49,
@@ -629,12 +1341,27 @@
     "position": "Attacker",
     "nationality": "German",
     "continent": "Europe",
-    "teamsWon": ["Chelsea"],
-    "yearsWon": [2021],
+    "teamsWon": [
+      "Chelsea"
+    ],
+    "yearsWon": [
+      2021
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2021 vs Manchester City (winning goal)"],
+    "finalGoals": [
+      "2021 vs Manchester City (winning goal)"
+    ],
     "age": 21,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2020s",
+    "preferredFoot": "Right"
   },
   {
     "id": 50,
@@ -642,12 +1369,25 @@
     "position": "Defender",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["Chelsea"],
-    "yearsWon": [2021],
+    "teamsWon": [
+      "Chelsea"
+    ],
+    "yearsWon": [
+      2021
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 36,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2020s",
+    "preferredFoot": "Right"
   },
   {
     "id": 51,
@@ -655,12 +1395,25 @@
     "position": "Attacker",
     "nationality": "German",
     "continent": "Europe",
-    "teamsWon": ["Chelsea"],
-    "yearsWon": [2021],
+    "teamsWon": [
+      "Chelsea"
+    ],
+    "yearsWon": [
+      2021
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2020s",
+    "preferredFoot": "Right"
   },
   {
     "id": 52,
@@ -668,12 +1421,25 @@
     "position": "Defender",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Chelsea"],
-    "yearsWon": [2021],
+    "teamsWon": [
+      "Chelsea"
+    ],
+    "yearsWon": [
+      2021
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 31,
-    "captainInFinal": true
+    "captainInFinal": true,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2020s",
+    "preferredFoot": "Right"
   },
   {
     "id": 53,
@@ -681,12 +1447,25 @@
     "position": "Midfielder",
     "nationality": "Italian",
     "continent": "Europe",
-    "teamsWon": ["Chelsea"],
-    "yearsWon": [2021],
+    "teamsWon": [
+      "Chelsea"
+    ],
+    "yearsWon": [
+      2021
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 29,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2020s",
+    "preferredFoot": "Right"
   },
   {
     "id": 54,
@@ -694,12 +1473,25 @@
     "position": "Defender",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Chelsea"],
-    "yearsWon": [2021],
+    "teamsWon": [
+      "Chelsea"
+    ],
+    "yearsWon": [
+      2021
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 21,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2020s",
+    "preferredFoot": "Right"
   },
   {
     "id": 55,
@@ -707,12 +1499,25 @@
     "position": "Defender",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Chelsea"],
-    "yearsWon": [2021],
+    "teamsWon": [
+      "Chelsea"
+    ],
+    "yearsWon": [
+      2021
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 24,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2020s",
+    "preferredFoot": "Right"
   },
   {
     "id": 56,
@@ -720,12 +1525,25 @@
     "position": "Goalkeeper",
     "nationality": "Senegalese",
     "continent": "Africa",
-    "teamsWon": ["Chelsea"],
-    "yearsWon": [2021],
+    "teamsWon": [
+      "Chelsea"
+    ],
+    "yearsWon": [
+      2021
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 29,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2020s",
+    "preferredFoot": "Right"
   },
   {
     "id": 57,
@@ -733,12 +1551,26 @@
     "position": "Attacker",
     "nationality": "German",
     "continent": "Europe",
-    "teamsWon": ["Bayern Munich"],
-    "yearsWon": [2013, 2020],
+    "teamsWon": [
+      "Bayern Munich"
+    ],
+    "yearsWon": [
+      2013,
+      2020
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 23,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 58,
@@ -746,12 +1578,25 @@
     "position": "Midfielder",
     "nationality": "German",
     "continent": "Europe",
-    "teamsWon": ["Bayern Munich"],
-    "yearsWon": [2020],
+    "teamsWon": [
+      "Bayern Munich"
+    ],
+    "yearsWon": [
+      2020
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2020s",
+    "preferredFoot": "Right"
   },
   {
     "id": 59,
@@ -759,12 +1604,26 @@
     "position": "Defender",
     "nationality": "Austrian",
     "continent": "Europe",
-    "teamsWon": ["Bayern Munich"],
-    "yearsWon": [2013, 2020],
+    "teamsWon": [
+      "Bayern Munich"
+    ],
+    "yearsWon": [
+      2013,
+      2020
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 21,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 60,
@@ -772,12 +1631,28 @@
     "position": "Midfielder",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Barcelona", "Bayern Munich"],
-    "yearsWon": [2009, 2011, 2020],
+    "teamsWon": [
+      "Barcelona",
+      "Bayern Munich"
+    ],
+    "yearsWon": [
+      2009,
+      2011,
+      2020
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 19,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 61,
@@ -785,12 +1660,25 @@
     "position": "Attacker",
     "nationality": "German",
     "continent": "Europe",
-    "teamsWon": ["Bayern Munich"],
-    "yearsWon": [2020],
+    "teamsWon": [
+      "Bayern Munich"
+    ],
+    "yearsWon": [
+      2020
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 24,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2020s",
+    "preferredFoot": "Right"
   },
   {
     "id": 62,
@@ -798,12 +1686,27 @@
     "position": "Attacker",
     "nationality": "French",
     "continent": "Europe",
-    "teamsWon": ["Bayern Munich"],
-    "yearsWon": [2020],
+    "teamsWon": [
+      "Bayern Munich"
+    ],
+    "yearsWon": [
+      2020
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2020 vs Paris Saint-Germain (winning goal)"],
+    "finalGoals": [
+      "2020 vs Paris Saint-Germain (winning goal)"
+    ],
     "age": 24,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2020s",
+    "preferredFoot": "Right"
   },
   {
     "id": 63,
@@ -811,12 +1714,26 @@
     "position": "Defender",
     "nationality": "German",
     "continent": "Europe",
-    "teamsWon": ["Bayern Munich"],
-    "yearsWon": [2013, 2020],
+    "teamsWon": [
+      "Bayern Munich"
+    ],
+    "yearsWon": [
+      2013,
+      2020
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 24,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 64,
@@ -824,12 +1741,25 @@
     "position": "Defender",
     "nationality": "Canadian",
     "continent": "North America",
-    "teamsWon": ["Bayern Munich"],
-    "yearsWon": [2020],
+    "teamsWon": [
+      "Bayern Munich"
+    ],
+    "yearsWon": [
+      2020
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 19,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2020s",
+    "preferredFoot": "Right"
   },
   {
     "id": 65,
@@ -837,12 +1767,25 @@
     "position": "Midfielder",
     "nationality": "German",
     "continent": "Europe",
-    "teamsWon": ["Bayern Munich"],
-    "yearsWon": [2020],
+    "teamsWon": [
+      "Bayern Munich"
+    ],
+    "yearsWon": [
+      2020
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2020s",
+    "preferredFoot": "Right"
   },
   {
     "id": 66,
@@ -850,12 +1793,25 @@
     "position": "Attacker",
     "nationality": "Croatian",
     "continent": "Europe",
-    "teamsWon": ["Bayern Munich"],
-    "yearsWon": [2020],
+    "teamsWon": [
+      "Bayern Munich"
+    ],
+    "yearsWon": [
+      2020
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 31,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2020s",
+    "preferredFoot": "Right"
   },
   {
     "id": 67,
@@ -863,12 +1819,25 @@
     "position": "Attacker",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["Bayern Munich"],
-    "yearsWon": [2020],
+    "teamsWon": [
+      "Bayern Munich"
+    ],
+    "yearsWon": [
+      2020
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 27,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2020s",
+    "preferredFoot": "Right"
   },
   {
     "id": 68,
@@ -876,12 +1845,25 @@
     "position": "Midfielder",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2019],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2019
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 69,
@@ -889,12 +1871,25 @@
     "position": "Attacker",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2019],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2019
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 27,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 70,
@@ -902,12 +1897,25 @@
     "position": "Midfielder",
     "nationality": "Dutch",
     "continent": "Europe",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2019],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2019
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 28,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 71,
@@ -915,12 +1923,25 @@
     "position": "Defender",
     "nationality": "Scottish",
     "continent": "Europe",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2019],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2019
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 72,
@@ -928,12 +1949,25 @@
     "position": "Defender",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2019],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2019
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 20,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 73,
@@ -941,12 +1975,25 @@
     "position": "Defender",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2019],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2019
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 22,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 74,
@@ -954,12 +2001,27 @@
     "position": "Attacker",
     "nationality": "Belgian",
     "continent": "Europe",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2019],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2019
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2019 vs Tottenham"],
+    "finalGoals": [
+      "2019 vs Tottenham"
+    ],
     "age": 24,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 75,
@@ -967,12 +2029,25 @@
     "position": "Goalkeeper",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2019],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2019
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 76,
@@ -980,12 +2055,25 @@
     "position": "Midfielder",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2019],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2019
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 33,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 77,
@@ -993,12 +2081,28 @@
     "position": "Midfielder",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2014, 2016, 2017, 2018],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2014,
+      2016,
+      2017,
+      2018
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 22,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": true,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 78,
@@ -1006,12 +2110,28 @@
     "position": "Midfielder",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2014, 2016, 2017, 2018],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2014,
+      2016,
+      2017,
+      2018
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 22,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 79,
@@ -1019,12 +2139,27 @@
     "position": "Attacker",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2016, 2017, 2018],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2016,
+      2017,
+      2018
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 20,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 80,
@@ -1032,12 +2167,27 @@
     "position": "Attacker",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2016, 2017, 2018],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2016,
+      2017,
+      2018
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 81,
@@ -1045,12 +2195,28 @@
     "position": "Defender",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2014, 2016, 2017, 2018],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2014,
+      2016,
+      2017,
+      2018
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 22,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 82,
@@ -1058,12 +2224,28 @@
     "position": "Defender",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2014, 2016, 2017, 2018],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2014,
+      2016,
+      2017,
+      2018
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 24,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 83,
@@ -1071,12 +2253,28 @@
     "position": "Defender",
     "nationality": "French",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2014, 2016, 2017, 2018],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2014,
+      2016,
+      2017,
+      2018
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 21,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 84,
@@ -1084,12 +2282,27 @@
     "position": "Goalkeeper",
     "nationality": "Costa Rican",
     "continent": "North America",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2016, 2017, 2018],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2016,
+      2017,
+      2018
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 29,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 85,
@@ -1097,12 +2310,27 @@
     "position": "Midfielder",
     "nationality": "Croatian",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2016, 2017, 2018],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2016,
+      2017,
+      2018
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 22,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 86,
@@ -1110,12 +2338,27 @@
     "position": "Attacker",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2014, 2016, 2017],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2014,
+      2016,
+      2017
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 22,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 87,
@@ -1123,12 +2366,25 @@
     "position": "Defender",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2014],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2014
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 28,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 88,
@@ -1136,12 +2392,27 @@
     "position": "Attacker",
     "nationality": "Argentinian",
     "continent": "South America",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2014],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2014
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2014 vs Atletico Madrid"],
+    "finalGoals": [
+      "2014 vs Atletico Madrid"
+    ],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 89,
@@ -1149,12 +2420,25 @@
     "position": "Midfielder",
     "nationality": "German",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2014],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2014
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 27,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 90,
@@ -1162,12 +2446,29 @@
     "position": "Midfielder",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Liverpool", "Real Madrid", "Bayern Munich"],
-    "yearsWon": [2005, 2014, 2013],
+    "teamsWon": [
+      "Liverpool",
+      "Real Madrid",
+      "Bayern Munich"
+    ],
+    "yearsWon": [
+      2005,
+      2014,
+      2013
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 23,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": true,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 91,
@@ -1175,12 +2476,27 @@
     "position": "Defender",
     "nationality": "Portuguese",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2014, 2016, 2017],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2014,
+      2016,
+      2017
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 31,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 92,
@@ -1188,12 +2504,25 @@
     "position": "Defender",
     "nationality": "Portuguese",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2014],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2014
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 93,
@@ -1201,12 +2530,25 @@
     "position": "Goalkeeper",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2014],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2014
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 32,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 94,
@@ -1214,12 +2556,25 @@
     "position": "Defender",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2015],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2015
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 95,
@@ -1227,12 +2582,27 @@
     "position": "Midfielder",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2009, 2011, 2015],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2009,
+      2011,
+      2015
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 21,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 96,
@@ -1240,12 +2610,25 @@
     "position": "Midfielder",
     "nationality": "Croatian",
     "continent": "Europe",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2015],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2015
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 27,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 97,
@@ -1253,12 +2636,25 @@
     "position": "Goalkeeper",
     "nationality": "German",
     "continent": "Europe",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2015],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2015
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 23,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 98,
@@ -1266,12 +2662,25 @@
     "position": "Goalkeeper",
     "nationality": "Chilean",
     "continent": "South America",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2015],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2015
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 32,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 99,
@@ -1279,12 +2688,25 @@
     "position": "Defender",
     "nationality": "Argentinian",
     "continent": "South America",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2015],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2015
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 31,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2010s",
+    "preferredFoot": "Right"
   },
   {
     "id": 100,
@@ -1292,12 +2714,29 @@
     "position": "Attacker",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2009, 2011, 2015],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2009,
+      2011,
+      2015
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2009 vs Manchester United"],
+    "finalGoals": [
+      "2009 vs Manchester United"
+    ],
     "age": 22,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 101,
@@ -1305,12 +2744,27 @@
     "position": "Defender",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2006, 2009, 2011],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2006,
+      2009,
+      2011
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 28,
-    "captainInFinal": true
+    "captainInFinal": true,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 102,
@@ -1318,12 +2772,27 @@
     "position": "Goalkeeper",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2006, 2009, 2011],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2006,
+      2009,
+      2011
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 24,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 103,
@@ -1331,12 +2800,26 @@
     "position": "Defender",
     "nationality": "French",
     "continent": "Europe",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2009, 2011],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2009,
+      2011
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 30,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 104,
@@ -1344,12 +2827,25 @@
     "position": "Midfielder",
     "nationality": "Ivorian",
     "continent": "Africa",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2009],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2009
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 105,
@@ -1357,12 +2853,26 @@
     "position": "Midfielder",
     "nationality": "Malian",
     "continent": "Africa",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2009, 2011],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2009,
+      2011
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 29,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 106,
@@ -1370,12 +2880,25 @@
     "position": "Defender",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2006],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2006
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 32,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 107,
@@ -1383,12 +2906,25 @@
     "position": "Attacker",
     "nationality": "French",
     "continent": "Europe",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2006],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2006
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 30,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 108,
@@ -1396,12 +2932,25 @@
     "position": "Defender",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2006],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2006
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 27,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 109,
@@ -1409,12 +2958,25 @@
     "position": "Midfielder",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2006],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2006
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 30,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 110,
@@ -1422,12 +2984,25 @@
     "position": "Defender",
     "nationality": "Mexican",
     "continent": "North America",
-    "teamsWon": ["Barcelona"],
-    "yearsWon": [2006],
+    "teamsWon": [
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2006
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 27,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 111,
@@ -1435,12 +3010,25 @@
     "position": "Attacker",
     "nationality": "Italian",
     "continent": "Europe",
-    "teamsWon": ["Juventus"],
-    "yearsWon": [1996],
+    "teamsWon": [
+      "Juventus"
+    ],
+    "yearsWon": [
+      1996
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 32,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 112,
@@ -1448,12 +3036,25 @@
     "position": "Attacker",
     "nationality": "Italian",
     "continent": "Europe",
-    "teamsWon": ["Juventus"],
-    "yearsWon": [1996],
+    "teamsWon": [
+      "Juventus"
+    ],
+    "yearsWon": [
+      1996
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 21,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 113,
@@ -1461,12 +3062,25 @@
     "position": "Midfielder",
     "nationality": "French",
     "continent": "Europe",
-    "teamsWon": ["Juventus"],
-    "yearsWon": [1996],
+    "teamsWon": [
+      "Juventus"
+    ],
+    "yearsWon": [
+      1996
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 27,
-    "captainInFinal": true
+    "captainInFinal": true,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 114,
@@ -1474,12 +3088,25 @@
     "position": "Midfielder",
     "nationality": "Italian",
     "continent": "Europe",
-    "teamsWon": ["Juventus"],
-    "yearsWon": [1996],
+    "teamsWon": [
+      "Juventus"
+    ],
+    "yearsWon": [
+      1996
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 115,
@@ -1487,12 +3114,25 @@
     "position": "Defender",
     "nationality": "Italian",
     "continent": "Europe",
-    "teamsWon": ["Juventus"],
-    "yearsWon": [1996],
+    "teamsWon": [
+      "Juventus"
+    ],
+    "yearsWon": [
+      1996
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 29,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 116,
@@ -1500,12 +3140,25 @@
     "position": "Goalkeeper",
     "nationality": "Italian",
     "continent": "Europe",
-    "teamsWon": ["Juventus"],
-    "yearsWon": [1996],
+    "teamsWon": [
+      "Juventus"
+    ],
+    "yearsWon": [
+      1996
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 117,
@@ -1513,12 +3166,27 @@
     "position": "Attacker",
     "nationality": "Italian",
     "continent": "Europe",
-    "teamsWon": ["Juventus"],
-    "yearsWon": [1996],
+    "teamsWon": [
+      "Juventus"
+    ],
+    "yearsWon": [
+      1996
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["1996 vs Ajax"],
+    "finalGoals": [
+      "1996 vs Ajax"
+    ],
     "age": 27,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 118,
@@ -1526,12 +3194,27 @@
     "position": "Midfielder",
     "nationality": "Czech",
     "continent": "Europe",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2005],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2005
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2005 vs AC Milan"],
+    "finalGoals": [
+      "2005 vs AC Milan"
+    ],
     "age": 32,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 119,
@@ -1539,12 +3222,27 @@
     "position": "Midfielder",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2005],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2005
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2005 vs AC Milan"],
+    "finalGoals": [
+      "2005 vs AC Milan"
+    ],
     "age": 25,
-    "captainInFinal": true
+    "captainInFinal": true,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 120,
@@ -1552,12 +3250,25 @@
     "position": "Defender",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2005],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2005
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 27,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 121,
@@ -1565,12 +3276,25 @@
     "position": "Goalkeeper",
     "nationality": "Polish",
     "continent": "Europe",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2005],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2005
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 32,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 122,
@@ -1578,12 +3302,25 @@
     "position": "Attacker",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2005],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2005
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 123,
@@ -1591,12 +3328,25 @@
     "position": "Attacker",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2005],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2005
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 28,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 124,
@@ -1604,12 +3354,25 @@
     "position": "Defender",
     "nationality": "Norwegian",
     "continent": "Europe",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2005],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2005
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 24,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 125,
@@ -1617,12 +3380,25 @@
     "position": "Attacker",
     "nationality": "French",
     "continent": "Europe",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2005],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2005
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 23,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 126,
@@ -1630,12 +3406,25 @@
     "position": "Attacker",
     "nationality": "Australian",
     "continent": "Oceania",
-    "teamsWon": ["Liverpool"],
-    "yearsWon": [2005],
+    "teamsWon": [
+      "Liverpool"
+    ],
+    "yearsWon": [
+      2005
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 127,
@@ -1643,12 +3432,25 @@
     "position": "Attacker",
     "nationality": "Argentinian",
     "continent": "South America",
-    "teamsWon": ["AC Milan"],
-    "yearsWon": [2007],
+    "teamsWon": [
+      "AC Milan"
+    ],
+    "yearsWon": [
+      2007
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 31,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 128,
@@ -1656,12 +3458,28 @@
     "position": "Attacker",
     "nationality": "Italian",
     "continent": "Europe",
-    "teamsWon": ["AC Milan"],
-    "yearsWon": [2003, 2007],
+    "teamsWon": [
+      "AC Milan"
+    ],
+    "yearsWon": [
+      2003,
+      2007
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2007 vs Liverpool (2 goals)"],
+    "finalGoals": [
+      "2007 vs Liverpool (2 goals)"
+    ],
     "age": 30,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 129,
@@ -1669,12 +3487,26 @@
     "position": "Midfielder",
     "nationality": "Italian",
     "continent": "Europe",
-    "teamsWon": ["AC Milan"],
-    "yearsWon": [2003, 2007],
+    "teamsWon": [
+      "AC Milan"
+    ],
+    "yearsWon": [
+      2003,
+      2007
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 130,
@@ -1682,12 +3514,26 @@
     "position": "Midfielder",
     "nationality": "Italian",
     "continent": "Europe",
-    "teamsWon": ["AC Milan"],
-    "yearsWon": [2003, 2007],
+    "teamsWon": [
+      "AC Milan"
+    ],
+    "yearsWon": [
+      2003,
+      2007
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 131,
@@ -1695,12 +3541,26 @@
     "position": "Goalkeeper",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["AC Milan"],
-    "yearsWon": [2003, 2007],
+    "teamsWon": [
+      "AC Milan"
+    ],
+    "yearsWon": [
+      2003,
+      2007
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 29,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 132,
@@ -1708,12 +3568,25 @@
     "position": "Defender",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["AC Milan"],
-    "yearsWon": [2007],
+    "teamsWon": [
+      "AC Milan"
+    ],
+    "yearsWon": [
+      2007
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 37,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 133,
@@ -1721,12 +3594,25 @@
     "position": "Defender",
     "nationality": "Czech",
     "continent": "Europe",
-    "teamsWon": ["AC Milan"],
-    "yearsWon": [2007],
+    "teamsWon": [
+      "AC Milan"
+    ],
+    "yearsWon": [
+      2007
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 29,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 134,
@@ -1734,12 +3620,25 @@
     "position": "Defender",
     "nationality": "Italian",
     "continent": "Europe",
-    "teamsWon": ["AC Milan"],
-    "yearsWon": [2007],
+    "teamsWon": [
+      "AC Milan"
+    ],
+    "yearsWon": [
+      2007
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 31,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 135,
@@ -1747,12 +3646,25 @@
     "position": "Midfielder",
     "nationality": "Portuguese",
     "continent": "Europe",
-    "teamsWon": ["AC Milan"],
-    "yearsWon": [2003],
+    "teamsWon": [
+      "AC Milan"
+    ],
+    "yearsWon": [
+      2003
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 31,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 136,
@@ -1760,12 +3672,25 @@
     "position": "Attacker",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["AC Milan"],
-    "yearsWon": [2003],
+    "teamsWon": [
+      "AC Milan"
+    ],
+    "yearsWon": [
+      2003
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 31,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 137,
@@ -1773,12 +3698,26 @@
     "position": "Defender",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["AC Milan"],
-    "yearsWon": [2003, 2007],
+    "teamsWon": [
+      "AC Milan"
+    ],
+    "yearsWon": [
+      2003,
+      2007
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 31,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 138,
@@ -1786,12 +3725,25 @@
     "position": "Midfielder",
     "nationality": "Portuguese",
     "continent": "Europe",
-    "teamsWon": ["Porto"],
-    "yearsWon": [2004],
+    "teamsWon": [
+      "Porto"
+    ],
+    "yearsWon": [
+      2004
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 31,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 139,
@@ -1799,12 +3751,27 @@
     "position": "Manager",
     "nationality": "Portuguese",
     "continent": "Europe",
-    "teamsWon": ["Porto", "Inter Milan"],
-    "yearsWon": [2004, 2010],
+    "teamsWon": [
+      "Porto",
+      "Inter Milan"
+    ],
+    "yearsWon": [
+      2004,
+      2010
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 41,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 140,
@@ -1812,12 +3779,27 @@
     "position": "Midfielder",
     "nationality": "Portuguese",
     "continent": "Europe",
-    "teamsWon": ["Porto", "Barcelona"],
-    "yearsWon": [2004, 2006],
+    "teamsWon": [
+      "Porto",
+      "Barcelona"
+    ],
+    "yearsWon": [
+      2004,
+      2006
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 141,
@@ -1825,12 +3807,27 @@
     "position": "Attacker",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["Porto"],
-    "yearsWon": [2004],
+    "teamsWon": [
+      "Porto"
+    ],
+    "yearsWon": [
+      2004
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2004 vs AS Monaco"],
+    "finalGoals": [
+      "2004 vs AS Monaco"
+    ],
     "age": 31,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 142,
@@ -1838,12 +3835,25 @@
     "position": "Goalkeeper",
     "nationality": "Portuguese",
     "continent": "Europe",
-    "teamsWon": ["Porto"],
-    "yearsWon": [2004],
+    "teamsWon": [
+      "Porto"
+    ],
+    "yearsWon": [
+      2004
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 34,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 143,
@@ -1851,12 +3861,27 @@
     "position": "Defender",
     "nationality": "Portuguese",
     "continent": "Europe",
-    "teamsWon": ["Porto", "Chelsea"],
-    "yearsWon": [2004, 2012],
+    "teamsWon": [
+      "Porto",
+      "Chelsea"
+    ],
+    "yearsWon": [
+      2004,
+      2012
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 144,
@@ -1864,12 +3889,27 @@
     "position": "Defender",
     "nationality": "Portuguese",
     "continent": "Europe",
-    "teamsWon": ["Porto", "Chelsea"],
-    "yearsWon": [2004, 2012],
+    "teamsWon": [
+      "Porto",
+      "Chelsea"
+    ],
+    "yearsWon": [
+      2004,
+      2012
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 145,
@@ -1877,12 +3917,25 @@
     "position": "Midfielder",
     "nationality": "Portuguese",
     "continent": "Europe",
-    "teamsWon": ["Porto"],
-    "yearsWon": [2004],
+    "teamsWon": [
+      "Porto"
+    ],
+    "yearsWon": [
+      2004
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 146,
@@ -1890,12 +3943,25 @@
     "position": "Midfielder",
     "nationality": "Portuguese",
     "continent": "Europe",
-    "teamsWon": ["Porto"],
-    "yearsWon": [2004],
+    "teamsWon": [
+      "Porto"
+    ],
+    "yearsWon": [
+      2004
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 147,
@@ -1903,12 +3969,25 @@
     "position": "Defender",
     "nationality": "Portuguese",
     "continent": "Europe",
-    "teamsWon": ["Porto"],
-    "yearsWon": [2004],
+    "teamsWon": [
+      "Porto"
+    ],
+    "yearsWon": [
+      2004
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 28,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 148,
@@ -1916,12 +3995,25 @@
     "position": "Defender",
     "nationality": "Portuguese",
     "continent": "Europe",
-    "teamsWon": ["Porto"],
-    "yearsWon": [2004],
+    "teamsWon": [
+      "Porto"
+    ],
+    "yearsWon": [
+      2004
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 32,
-    "captainInFinal": true
+    "captainInFinal": true,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 149,
@@ -1929,12 +4021,25 @@
     "position": "Attacker",
     "nationality": "South African",
     "continent": "Africa",
-    "teamsWon": ["Porto"],
-    "yearsWon": [2004],
+    "teamsWon": [
+      "Porto"
+    ],
+    "yearsWon": [
+      2004
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 150,
@@ -1942,12 +4047,25 @@
     "position": "Midfielder",
     "nationality": "Russian",
     "continent": "Europe",
-    "teamsWon": ["Porto"],
-    "yearsWon": [2004],
+    "teamsWon": [
+      "Porto"
+    ],
+    "yearsWon": [
+      2004
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 31,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 151,
@@ -1955,12 +4073,27 @@
     "position": "Goalkeeper",
     "nationality": "Dutch",
     "continent": "Europe",
-    "teamsWon": ["Ajax", "Manchester United"],
-    "yearsWon": [1995, 2008],
+    "teamsWon": [
+      "Ajax",
+      "Manchester United"
+    ],
+    "yearsWon": [
+      1995,
+      2008
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 152,
@@ -1968,12 +4101,26 @@
     "position": "Attacker",
     "nationality": "Welsh",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [1999, 2008],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      1999,
+      2008
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 153,
@@ -1981,12 +4128,26 @@
     "position": "Midfielder",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [1999, 2008],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      1999,
+      2008
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 24,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 154,
@@ -1994,12 +4155,25 @@
     "position": "Defender",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [2008],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      2008
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 29,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 155,
@@ -2007,12 +4181,25 @@
     "position": "Attacker",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [2008],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      2008
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 22,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 156,
@@ -2020,12 +4207,25 @@
     "position": "Attacker",
     "nationality": "Argentinian",
     "continent": "South America",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [2008],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      2008
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 24,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 157,
@@ -2033,12 +4233,25 @@
     "position": "Midfielder",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [2008],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      2008
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 158,
@@ -2046,12 +4259,27 @@
     "position": "Midfielder",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Bayern Munich", "Manchester United"],
-    "yearsWon": [2001, 2008],
+    "teamsWon": [
+      "Bayern Munich",
+      "Manchester United"
+    ],
+    "yearsWon": [
+      2001,
+      2008
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 22,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": true,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 159,
@@ -2059,12 +4287,25 @@
     "position": "Defender",
     "nationality": "French",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [2008],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      2008
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 27,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 160,
@@ -2072,12 +4313,25 @@
     "position": "Defender",
     "nationality": "Serbian",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [2008],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      2008
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 161,
@@ -2085,12 +4339,25 @@
     "position": "Midfielder",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [2008],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      2008
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 20,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 162,
@@ -2098,12 +4365,25 @@
     "position": "Attacker",
     "nationality": "Portuguese",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [2008],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      2008
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 21,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 163,
@@ -2111,12 +4391,25 @@
     "position": "Defender",
     "nationality": "Irish",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [2008],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      2008
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 27,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 164,
@@ -2124,12 +4417,26 @@
     "position": "Defender",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [1999, 2008],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      1999,
+      2008
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 19,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 165,
@@ -2137,12 +4444,25 @@
     "position": "Attacker",
     "nationality": "Trinidadian",
     "continent": "North America",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [1999],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      1999
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 27,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 166,
@@ -2150,12 +4470,25 @@
     "position": "Attacker",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [1999],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      1999
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 27,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 167,
@@ -2163,12 +4496,27 @@
     "position": "Attacker",
     "nationality": "Norwegian",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [1999],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      1999
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["1999 vs Bayern Munich (winning goal)"],
+    "finalGoals": [
+      "1999 vs Bayern Munich (winning goal)"
+    ],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 168,
@@ -2176,12 +4524,27 @@
     "position": "Attacker",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [1999],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      1999
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["1999 vs Bayern Munich"],
+    "finalGoals": [
+      "1999 vs Bayern Munich"
+    ],
     "age": 33,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 169,
@@ -2189,12 +4552,25 @@
     "position": "Midfielder",
     "nationality": "Irish",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [1999],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      1999
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 27,
-    "captainInFinal": true
+    "captainInFinal": true,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 170,
@@ -2202,12 +4578,25 @@
     "position": "Goalkeeper",
     "nationality": "Danish",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [1999],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      1999
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 35,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 171,
@@ -2215,12 +4604,26 @@
     "position": "Defender",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [1999, 2008],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      1999,
+      2008
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 24,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 172,
@@ -2228,12 +4631,25 @@
     "position": "Defender",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [1999],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      1999
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 22,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 173,
@@ -2241,12 +4657,25 @@
     "position": "Defender",
     "nationality": "Irish",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [1999],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      1999
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 33,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 174,
@@ -2254,12 +4683,25 @@
     "position": "Defender",
     "nationality": "Norwegian",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [1999],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      1999
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 29,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 175,
@@ -2267,12 +4709,25 @@
     "position": "Defender",
     "nationality": "Dutch",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [1999],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      1999
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 26,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 176,
@@ -2280,12 +4735,25 @@
     "position": "Midfielder",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [1999],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      1999
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 24,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 177,
@@ -2293,12 +4761,25 @@
     "position": "Attacker",
     "nationality": "Swedish",
     "continent": "Europe",
-    "teamsWon": ["Manchester United"],
-    "yearsWon": [1999],
+    "teamsWon": [
+      "Manchester United"
+    ],
+    "yearsWon": [
+      1999
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": true,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 178,
@@ -2306,12 +4787,25 @@
     "position": "Defender",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2000],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2000
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 20,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 179,
@@ -2319,12 +4813,28 @@
     "position": "Midfielder",
     "nationality": "English",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2000, 2002],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2000,
+      2002
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["2000 vs Valencia"],
+    "finalGoals": [
+      "2000 vs Valencia"
+    ],
     "age": 28,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 180,
@@ -2332,12 +4842,27 @@
     "position": "Attacker",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [1998, 2000, 2002],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      1998,
+      2000,
+      2002
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 22,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 181,
@@ -2345,12 +4870,25 @@
     "position": "Midfielder",
     "nationality": "Argentinian",
     "continent": "South America",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2002],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2002
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 182,
@@ -2358,12 +4896,25 @@
     "position": "Midfielder",
     "nationality": "French",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2002],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2002
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 29,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 183,
@@ -2371,12 +4922,27 @@
     "position": "Defender",
     "nationality": "Spanish",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [1998, 2000, 2002],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      1998,
+      2000,
+      2002
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 24,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 184,
@@ -2384,12 +4950,25 @@
     "position": "Attacker",
     "nationality": "Portuguese",
     "continent": "Europe",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [2002],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      2002
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 29,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "2000s",
+    "preferredFoot": "Right"
   },
   {
     "id": 185,
@@ -2397,12 +4976,26 @@
     "position": "Midfielder",
     "nationality": "Brazilian",
     "continent": "South America",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [1998, 2000],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      1998,
+      2000
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 186,
@@ -2410,12 +5003,26 @@
     "position": "Midfielder",
     "nationality": "Argentinian",
     "continent": "South America",
-    "teamsWon": ["Real Madrid"],
-    "yearsWon": [1998, 2000],
+    "teamsWon": [
+      "Real Madrid"
+    ],
+    "yearsWon": [
+      1998,
+      2000
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 29,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 187,
@@ -2423,12 +5030,30 @@
     "position": "Midfielder",
     "nationality": "Dutch",
     "continent": "Europe",
-    "teamsWon": ["Ajax", "Real Madrid", "AC Milan"],
-    "yearsWon": [1995, 1998, 2003, 2007],
+    "teamsWon": [
+      "Ajax",
+      "Real Madrid",
+      "AC Milan"
+    ],
+    "yearsWon": [
+      1995,
+      1998,
+      2003,
+      2007
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 19,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": true,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 188,
@@ -2436,12 +5061,27 @@
     "position": "Attacker",
     "nationality": "Dutch",
     "continent": "Europe",
-    "teamsWon": ["Ajax"],
-    "yearsWon": [1995],
+    "teamsWon": [
+      "Ajax"
+    ],
+    "yearsWon": [
+      1995
+    ],
     "scoredInFinal": true,
-    "finalGoals": ["1995 vs AC Milan (winning goal)"],
+    "finalGoals": [
+      "1995 vs AC Milan (winning goal)"
+    ],
     "age": 19,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 189,
@@ -2449,12 +5089,25 @@
     "position": "Midfielder",
     "nationality": "Dutch",
     "continent": "Europe",
-    "teamsWon": ["Ajax"],
-    "yearsWon": [1995],
+    "teamsWon": [
+      "Ajax"
+    ],
+    "yearsWon": [
+      1995
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 32,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 190,
@@ -2462,12 +5115,25 @@
     "position": "Defender",
     "nationality": "Dutch",
     "continent": "Europe",
-    "teamsWon": ["Ajax"],
-    "yearsWon": [1995],
+    "teamsWon": [
+      "Ajax"
+    ],
+    "yearsWon": [
+      1995
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 34,
-    "captainInFinal": true
+    "captainInFinal": true,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 191,
@@ -2475,12 +5141,25 @@
     "position": "Defender",
     "nationality": "Dutch",
     "continent": "Europe",
-    "teamsWon": ["Ajax"],
-    "yearsWon": [1995],
+    "teamsWon": [
+      "Ajax"
+    ],
+    "yearsWon": [
+      1995
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 192,
@@ -2488,12 +5167,25 @@
     "position": "Midfielder",
     "nationality": "Dutch",
     "continent": "Europe",
-    "teamsWon": ["Ajax"],
-    "yearsWon": [1995],
+    "teamsWon": [
+      "Ajax"
+    ],
+    "yearsWon": [
+      1995
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 193,
@@ -2501,12 +5193,25 @@
     "position": "Attacker",
     "nationality": "Finnish",
     "continent": "Europe",
-    "teamsWon": ["Ajax"],
-    "yearsWon": [1995],
+    "teamsWon": [
+      "Ajax"
+    ],
+    "yearsWon": [
+      1995
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 24,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 194,
@@ -2514,12 +5219,25 @@
     "position": "Attacker",
     "nationality": "Dutch",
     "continent": "Europe",
-    "teamsWon": ["Ajax"],
-    "yearsWon": [1995],
+    "teamsWon": [
+      "Ajax"
+    ],
+    "yearsWon": [
+      1995
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 22,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 195,
@@ -2527,12 +5245,25 @@
     "position": "Attacker",
     "nationality": "Nigerian",
     "continent": "Africa",
-    "teamsWon": ["Ajax"],
-    "yearsWon": [1995],
+    "teamsWon": [
+      "Ajax"
+    ],
+    "yearsWon": [
+      1995
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 24,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 196,
@@ -2540,12 +5271,25 @@
     "position": "Attacker",
     "nationality": "Nigerian",
     "continent": "Africa",
-    "teamsWon": ["Ajax"],
-    "yearsWon": [1995],
+    "teamsWon": [
+      "Ajax"
+    ],
+    "yearsWon": [
+      1995
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 18,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 197,
@@ -2553,12 +5297,27 @@
     "position": "Defender",
     "nationality": "Dutch",
     "continent": "Europe",
-    "teamsWon": ["Ajax", "Barcelona"],
-    "yearsWon": [1995, 2006],
+    "teamsWon": [
+      "Ajax",
+      "Barcelona"
+    ],
+    "yearsWon": [
+      1995,
+      2006
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 22,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": true,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 198,
@@ -2566,12 +5325,25 @@
     "position": "Defender",
     "nationality": "Dutch",
     "continent": "Europe",
-    "teamsWon": ["Ajax"],
-    "yearsWon": [1995],
+    "teamsWon": [
+      "Ajax"
+    ],
+    "yearsWon": [
+      1995
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 25,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 199,
@@ -2579,12 +5351,25 @@
     "position": "Goalkeeper",
     "nationality": "Dutch",
     "continent": "Europe",
-    "teamsWon": ["Ajax"],
-    "yearsWon": [1995],
+    "teamsWon": [
+      "Ajax"
+    ],
+    "yearsWon": [
+      1995
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 31,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   },
   {
     "id": 200,
@@ -2592,11 +5377,24 @@
     "position": "Midfielder",
     "nationality": "Dutch",
     "continent": "Europe",
-    "teamsWon": ["Ajax"],
-    "yearsWon": [1995],
+    "teamsWon": [
+      "Ajax"
+    ],
+    "yearsWon": [
+      1995
+    ],
     "scoredInFinal": false,
     "finalGoals": [],
     "age": 22,
-    "captainInFinal": false
+    "captainInFinal": false,
+    "ballonDorWinner": false,
+    "worldCupWinner": false,
+    "premierLeagueWinner": false,
+    "laLigaWinner": false,
+    "bundesligaWinner": false,
+    "serieAWinner": false,
+    "ligue1Winner": false,
+    "playingEra": "90s",
+    "preferredFoot": "Right"
   }
 ]
