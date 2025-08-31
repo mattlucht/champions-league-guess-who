@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Champions League Guess Who</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1 class="title">⚽ Champions League Guess Who</h1>
+            <p class="subtitle">Can you guess the Champions League winner?</p>
+        </header>
+
+        <main class="main">
+            <div class="game-controls">
+                <button id="newPlayerBtn" class="btn btn-primary">Get New Player</button>
+                <button id="revealBtn" class="btn btn-secondary">Reveal Answer</button>
+            </div>
+
+            <div id="gameArea" class="game-area hidden">
+                <div class="player-card">
+                    <div class="player-header">
+                        <h2 id="playerName" class="player-name"></h2>
+                        <div id="playerPosition" class="player-position"></div>
+                    </div>
+                    
+                    <div class="player-info">
+                        <div class="info-section">
+                            <h3 class="info-title">Personal Details</h3>
+                            <div class="info-grid">
+                                <div class="info-item">
+                                    <span class="info-label">Nationality:</span>
+                                    <span id="playerNationality" class="info-value"></span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Continent:</span>
+                                    <span id="playerContinent" class="info-value"></span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Age when won:</span>
+                                    <span id="playerAge" class="info-value"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="info-section">
+                            <h3 class="info-title">Champions League Record</h3>
+                            <div class="info-grid">
+                                <div class="info-item full-width">
+                                    <span class="info-label">Teams won with:</span>
+                                    <span id="playerTeams" class="info-value"></span>
+                                </div>
+                                <div class="info-item full-width">
+                                    <span class="info-label">Years won:</span>
+                                    <span id="playerYears" class="info-value"></span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Scored in final:</span>
+                                    <span id="playerScoredInFinal" class="info-value"></span>
+                                </div>
+                                <div class="info-item">
+                                    <span class="info-label">Captain in final:</span>
+                                    <span id="playerCaptain" class="info-value"></span>
+                                </div>
+                            </div>
+                            <div id="finalGoalsSection" class="final-goals hidden">
+                                <div class="info-item full-width">
+                                    <span class="info-label">Final goals:</span>
+                                    <div id="playerFinalGoals" class="info-value final-goals-list"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="welcomeMessage" class="welcome-message">
+                <div class="welcome-content">
+                    <h2>🏆 Welcome to Champions League Guess Who!</h2>
+                    <p>This game is perfect for 2 or more players. One person holds the device and can see the selected player's information.</p>
+                    <p>Others ask yes/no questions to guess the player:</p>
+                    <ul class="question-examples">
+                        <li>"Was the player a defender?"</li>
+                        <li>"Did they score in a final?"</li>
+                        <li>"Are they European?"</li>
+                        <li>"Did they win with Real Madrid?"</li>
+                        <li>"Were they a captain?"</li>
+                    </ul>
+                    <p><strong>Click "Get New Player" to start!</strong></p>
+                </div>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p>Made for Champions League fans ⚽</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
