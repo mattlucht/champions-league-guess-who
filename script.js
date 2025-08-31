@@ -31,8 +31,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2002],
                     "scoredInFinal": true,
                     "finalGoals": ["2002 vs Bayer Leverkusen (winning goal)"],
-                    "age": 29,
-                    "captainInFinal": false
+                    "captainInFinal": false,
+                    "ballonDorWinner": true,
+                    "worldCupWinner": true,
+                    "premierLeagueWinner": false,
+                    "laLigaWinner": true,
+                    "bundesligaWinner": false,
+                    "serieAWinner": false,
+                    "ligue1Winner": false,
+                    "playingEra": "2000s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 2,
@@ -44,8 +52,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2014, 2016, 2017, 2018],
                     "scoredInFinal": true,
                     "finalGoals": ["2014 vs Atletico Madrid (equalizer)"],
-                    "age": 28,
-                    "captainInFinal": true
+                    "captainInFinal": true,
+                    "ballonDorWinner": false,
+                    "worldCupWinner": true,
+                    "premierLeagueWinner": false,
+                    "laLigaWinner": true,
+                    "bundesligaWinner": false,
+                    "serieAWinner": false,
+                    "ligue1Winner": false,
+                    "playingEra": "2010s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 3,
@@ -57,8 +73,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2008, 2014, 2016, 2017, 2018],
                     "scoredInFinal": false,
                     "finalGoals": [],
-                    "age": 23,
-                    "captainInFinal": false
+                    "captainInFinal": false,
+                    "ballonDorWinner": true,
+                    "worldCupWinner": false,
+                    "premierLeagueWinner": true,
+                    "laLigaWinner": true,
+                    "bundesligaWinner": false,
+                    "serieAWinner": false,
+                    "ligue1Winner": false,
+                    "playingEra": "2000s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 4,
@@ -70,8 +94,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2006, 2009, 2011, 2015],
                     "scoredInFinal": true,
                     "finalGoals": ["2009 vs Manchester United", "2011 vs Manchester United"],
-                    "age": 19,
-                    "captainInFinal": false
+                    "captainInFinal": false,
+                    "ballonDorWinner": true,
+                    "worldCupWinner": true,
+                    "premierLeagueWinner": false,
+                    "laLigaWinner": true,
+                    "bundesligaWinner": false,
+                    "serieAWinner": false,
+                    "ligue1Winner": true,
+                    "playingEra": "2000s",
+                    "preferredFoot": "Left"
                 },
                 {
                     "id": 5,
@@ -83,8 +115,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2000, 2002, 2014, 2016, 2017, 2018],
                     "scoredInFinal": false,
                     "finalGoals": [],
-                    "age": 19,
-                    "captainInFinal": true
+                    "captainInFinal": true,
+                    "ballonDorWinner": false,
+                    "worldCupWinner": true,
+                    "premierLeagueWinner": false,
+                    "laLigaWinner": true,
+                    "bundesligaWinner": false,
+                    "serieAWinner": false,
+                    "ligue1Winner": false,
+                    "playingEra": "2000s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 6,
@@ -96,8 +136,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2006, 2009, 2010],
                     "scoredInFinal": true,
                     "finalGoals": ["2006 vs Arsenal"],
-                    "age": 25,
-                    "captainInFinal": false
+                    "captainInFinal": false,
+                    "ballonDorWinner": false,
+                    "worldCupWinner": false,
+                    "premierLeagueWinner": false,
+                    "laLigaWinner": true,
+                    "bundesligaWinner": false,
+                    "serieAWinner": true,
+                    "ligue1Winner": false,
+                    "playingEra": "2000s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 7,
@@ -109,8 +157,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2003, 2007],
                     "scoredInFinal": false,
                     "finalGoals": [],
-                    "age": 24,
-                    "captainInFinal": false
+                    "captainInFinal": false,
+                    "ballonDorWinner": false,
+                    "worldCupWinner": true,
+                    "premierLeagueWinner": false,
+                    "laLigaWinner": false,
+                    "bundesligaWinner": false,
+                    "serieAWinner": true,
+                    "ligue1Winner": false,
+                    "playingEra": "2000s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 8,
@@ -122,8 +178,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [1990, 1994, 2003, 2007],
                     "scoredInFinal": true,
                     "finalGoals": ["2005 vs Liverpool (though Milan lost)", "2007 vs Liverpool"],
-                    "age": 22,
-                    "captainInFinal": true
+                    "captainInFinal": true,
+                    "ballonDorWinner": false,
+                    "worldCupWinner": false,
+                    "premierLeagueWinner": false,
+                    "laLigaWinner": false,
+                    "bundesligaWinner": false,
+                    "serieAWinner": true,
+                    "ligue1Winner": false,
+                    "playingEra": "90s",
+                    "preferredFoot": "Left"
                 },
                 {
                     "id": 9,
@@ -135,8 +199,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2006, 2009, 2011, 2015],
                     "scoredInFinal": false,
                     "finalGoals": [],
-                    "age": 26,
-                    "captainInFinal": false
+                    "captainInFinal": false,
+                    "ballonDorWinner": false,
+                    "worldCupWinner": true,
+                    "premierLeagueWinner": false,
+                    "laLigaWinner": true,
+                    "bundesligaWinner": false,
+                    "serieAWinner": false,
+                    "ligue1Winner": false,
+                    "playingEra": "2000s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 10,
@@ -148,8 +220,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2006, 2009, 2011, 2015],
                     "scoredInFinal": false,
                     "finalGoals": [],
-                    "age": 22,
-                    "captainInFinal": false
+                    "captainInFinal": false,
+                    "ballonDorWinner": false,
+                    "worldCupWinner": true,
+                    "premierLeagueWinner": false,
+                    "laLigaWinner": true,
+                    "bundesligaWinner": false,
+                    "serieAWinner": false,
+                    "ligue1Winner": false,
+                    "playingEra": "2000s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 11,
@@ -161,8 +241,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2007],
                     "scoredInFinal": false,
                     "finalGoals": [],
-                    "age": 25,
-                    "captainInFinal": false
+                    "captainInFinal": false,
+                    "ballonDorWinner": true,
+                    "worldCupWinner": true,
+                    "premierLeagueWinner": false,
+                    "laLigaWinner": false,
+                    "bundesligaWinner": false,
+                    "serieAWinner": true,
+                    "ligue1Winner": false,
+                    "playingEra": "2000s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 12,
@@ -174,8 +262,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2009],
                     "scoredInFinal": false,
                     "finalGoals": [],
-                    "age": 31,
-                    "captainInFinal": false
+                    "captainInFinal": false,
+                    "ballonDorWinner": false,
+                    "worldCupWinner": true,
+                    "premierLeagueWinner": true,
+                    "laLigaWinner": true,
+                    "bundesligaWinner": false,
+                    "serieAWinner": false,
+                    "ligue1Winner": false,
+                    "playingEra": "2000s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 13,
@@ -187,8 +283,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2006],
                     "scoredInFinal": false,
                     "finalGoals": [],
-                    "age": 26,
-                    "captainInFinal": false
+                    "captainInFinal": false,
+                    "ballonDorWinner": true,
+                    "worldCupWinner": true,
+                    "premierLeagueWinner": false,
+                    "laLigaWinner": true,
+                    "bundesligaWinner": false,
+                    "serieAWinner": false,
+                    "ligue1Winner": false,
+                    "playingEra": "2000s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 14,
@@ -200,8 +304,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2012],
                     "scoredInFinal": false,
                     "finalGoals": [],
-                    "age": 33,
-                    "captainInFinal": false
+                    "captainInFinal": false,
+                    "ballonDorWinner": false,
+                    "worldCupWinner": false,
+                    "premierLeagueWinner": true,
+                    "laLigaWinner": false,
+                    "bundesligaWinner": false,
+                    "serieAWinner": false,
+                    "ligue1Winner": false,
+                    "playingEra": "2000s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 15,
@@ -213,8 +325,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2012],
                     "scoredInFinal": false,
                     "finalGoals": [],
-                    "age": 31,
-                    "captainInFinal": true
+                    "captainInFinal": true,
+                    "ballonDorWinner": false,
+                    "worldCupWinner": false,
+                    "premierLeagueWinner": true,
+                    "laLigaWinner": false,
+                    "bundesligaWinner": false,
+                    "serieAWinner": false,
+                    "ligue1Winner": false,
+                    "playingEra": "2000s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 16,
@@ -226,8 +346,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2012],
                     "scoredInFinal": true,
                     "finalGoals": ["2012 vs Bayern Munich (equalizer)"],
-                    "age": 34,
-                    "captainInFinal": false
+                    "captainInFinal": false,
+                    "ballonDorWinner": false,
+                    "worldCupWinner": false,
+                    "premierLeagueWinner": true,
+                    "laLigaWinner": false,
+                    "bundesligaWinner": false,
+                    "serieAWinner": false,
+                    "ligue1Winner": true,
+                    "playingEra": "2000s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 17,
@@ -239,8 +367,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2012],
                     "scoredInFinal": false,
                     "finalGoals": [],
-                    "age": 29,
-                    "captainInFinal": false
+                    "captainInFinal": false,
+                    "ballonDorWinner": false,
+                    "worldCupWinner": false,
+                    "premierLeagueWinner": true,
+                    "laLigaWinner": false,
+                    "bundesligaWinner": false,
+                    "serieAWinner": false,
+                    "ligue1Winner": false,
+                    "playingEra": "2000s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 18,
@@ -252,8 +388,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2014, 2016, 2017, 2018],
                     "scoredInFinal": true,
                     "finalGoals": ["2018 vs Liverpool (2 goals including bicycle kick)"],
-                    "age": 24,
-                    "captainInFinal": false
+                    "captainInFinal": false,
+                    "ballonDorWinner": false,
+                    "worldCupWinner": false,
+                    "premierLeagueWinner": true,
+                    "laLigaWinner": true,
+                    "bundesligaWinner": false,
+                    "serieAWinner": false,
+                    "ligue1Winner": false,
+                    "playingEra": "2010s",
+                    "preferredFoot": "Left"
                 },
                 {
                     "id": 19,
@@ -265,8 +409,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2014, 2016, 2017, 2018],
                     "scoredInFinal": false,
                     "finalGoals": [],
-                    "age": 28,
-                    "captainInFinal": false
+                    "captainInFinal": false,
+                    "ballonDorWinner": true,
+                    "worldCupWinner": false,
+                    "premierLeagueWinner": true,
+                    "laLigaWinner": true,
+                    "bundesligaWinner": false,
+                    "serieAWinner": false,
+                    "ligue1Winner": false,
+                    "playingEra": "2010s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 20,
@@ -278,8 +430,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2019],
                     "scoredInFinal": false,
                     "finalGoals": [],
-                    "age": 27,
-                    "captainInFinal": false
+                    "captainInFinal": false,
+                    "ballonDorWinner": false,
+                    "worldCupWinner": false,
+                    "premierLeagueWinner": true,
+                    "laLigaWinner": false,
+                    "bundesligaWinner": false,
+                    "serieAWinner": false,
+                    "ligue1Winner": false,
+                    "playingEra": "2010s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 21,
@@ -291,8 +451,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2019],
                     "scoredInFinal": true,
                     "finalGoals": ["2019 vs Tottenham (penalty)"],
-                    "age": 26,
-                    "captainInFinal": false
+                    "captainInFinal": false,
+                    "ballonDorWinner": false,
+                    "worldCupWinner": false,
+                    "premierLeagueWinner": true,
+                    "laLigaWinner": false,
+                    "bundesligaWinner": false,
+                    "serieAWinner": true,
+                    "ligue1Winner": false,
+                    "playingEra": "2010s",
+                    "preferredFoot": "Left"
                 },
                 {
                     "id": 22,
@@ -304,8 +472,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2019],
                     "scoredInFinal": false,
                     "finalGoals": [],
-                    "age": 27,
-                    "captainInFinal": false
+                    "captainInFinal": false,
+                    "ballonDorWinner": false,
+                    "worldCupWinner": false,
+                    "premierLeagueWinner": true,
+                    "laLigaWinner": false,
+                    "bundesligaWinner": true,
+                    "serieAWinner": false,
+                    "ligue1Winner": false,
+                    "playingEra": "2010s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 23,
@@ -317,8 +493,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2019],
                     "scoredInFinal": false,
                     "finalGoals": [],
-                    "age": 29,
-                    "captainInFinal": true
+                    "captainInFinal": true,
+                    "ballonDorWinner": false,
+                    "worldCupWinner": false,
+                    "premierLeagueWinner": true,
+                    "laLigaWinner": false,
+                    "bundesligaWinner": false,
+                    "serieAWinner": false,
+                    "ligue1Winner": false,
+                    "playingEra": "2010s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 24,
@@ -330,8 +514,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2020],
                     "scoredInFinal": false,
                     "finalGoals": [],
-                    "age": 31,
-                    "captainInFinal": false
+                    "captainInFinal": false,
+                    "ballonDorWinner": false,
+                    "worldCupWinner": false,
+                    "premierLeagueWinner": false,
+                    "laLigaWinner": false,
+                    "bundesligaWinner": true,
+                    "serieAWinner": false,
+                    "ligue1Winner": false,
+                    "playingEra": "2010s",
+                    "preferredFoot": "Right"
                 },
                 {
                     "id": 25,
@@ -343,8 +535,16 @@ class ChampionsLeagueGuessWho {
                     "yearsWon": [2013, 2020],
                     "scoredInFinal": false,
                     "finalGoals": [],
-                    "age": 27,
-                    "captainInFinal": true
+                    "captainInFinal": true,
+                    "ballonDorWinner": false,
+                    "worldCupWinner": true,
+                    "premierLeagueWinner": false,
+                    "laLigaWinner": false,
+                    "bundesligaWinner": true,
+                    "serieAWinner": false,
+                    "ligue1Winner": false,
+                    "playingEra": "2010s",
+                    "preferredFoot": "Right"
                 }
             ];
         }
@@ -384,9 +584,18 @@ class ChampionsLeagueGuessWho {
         // Basic info - always visible to game master
         document.getElementById('playerName').textContent = revealed ? player.name : '???';
         document.getElementById('playerPosition').textContent = player.position;
+        
+        // Hide stars initially
+        const playerStarsElement = document.getElementById('playerStars');
+        if (revealed) {
+            this.showPlayerStars();
+        } else {
+            playerStarsElement.classList.add('hidden');
+        }
         document.getElementById('playerNationality').textContent = player.nationality;
         document.getElementById('playerContinent').textContent = player.continent;
-        document.getElementById('playerAge').textContent = player.age;
+        document.getElementById('playerEra').textContent = player.playingEra;
+        document.getElementById('playerFoot').textContent = player.preferredFoot;
         
         // Teams and years
         document.getElementById('playerTeams').textContent = player.teamsWon.join(', ');
@@ -395,12 +604,41 @@ class ChampionsLeagueGuessWho {
         // Boolean values with color coding
         const scoredElement = document.getElementById('playerScoredInFinal');
         const captainElement = document.getElementById('playerCaptain');
+        const ballonDorElement = document.getElementById('playerBallonDor');
+        const worldCupElement = document.getElementById('playerWorldCup');
+        const premierLeagueElement = document.getElementById('playerPremierLeague');
         
         scoredElement.textContent = player.scoredInFinal ? 'Yes' : 'No';
         scoredElement.className = `info-value ${player.scoredInFinal ? 'yes' : 'no'}`;
         
         captainElement.textContent = player.captainInFinal ? 'Yes' : 'No';
         captainElement.className = `info-value ${player.captainInFinal ? 'yes' : 'no'}`;
+        
+        ballonDorElement.textContent = player.ballonDorWinner ? 'Yes' : 'No';
+        ballonDorElement.className = `info-value ${player.ballonDorWinner ? 'yes' : 'no'}`;
+        
+        worldCupElement.textContent = player.worldCupWinner ? 'Yes' : 'No';
+        worldCupElement.className = `info-value ${player.worldCupWinner ? 'yes' : 'no'}`;
+        
+        premierLeagueElement.textContent = player.premierLeagueWinner ? 'Yes' : 'No';
+        premierLeagueElement.className = `info-value ${player.premierLeagueWinner ? 'yes' : 'no'}`;
+        
+        const laLigaElement = document.getElementById('playerLaLiga');
+        const bundesligaElement = document.getElementById('playerBundesliga');
+        const serieAElement = document.getElementById('playerSerieA');
+        const ligue1Element = document.getElementById('playerLigue1');
+        
+        laLigaElement.textContent = player.laLigaWinner ? 'Yes' : 'No';
+        laLigaElement.className = `info-value ${player.laLigaWinner ? 'yes' : 'no'}`;
+        
+        bundesligaElement.textContent = player.bundesligaWinner ? 'Yes' : 'No';
+        bundesligaElement.className = `info-value ${player.bundesligaWinner ? 'yes' : 'no'}`;
+        
+        serieAElement.textContent = player.serieAWinner ? 'Yes' : 'No';
+        serieAElement.className = `info-value ${player.serieAWinner ? 'yes' : 'no'}`;
+        
+        ligue1Element.textContent = player.ligue1Winner ? 'Yes' : 'No';
+        ligue1Element.className = `info-value ${player.ligue1Winner ? 'yes' : 'no'}`;
         
         // Final goals section
         const finalGoalsSection = document.getElementById('finalGoalsSection');
@@ -420,17 +658,32 @@ class ChampionsLeagueGuessWho {
         if (!this.currentPlayer) return;
         
         const playerNameElement = document.getElementById('playerName');
+        const playerStarsElement = document.getElementById('playerStars');
         const revealBtn = document.getElementById('revealBtn');
         
         if (playerNameElement.textContent === '???') {
             // Reveal the player
             playerNameElement.textContent = this.currentPlayer.name;
+            this.showPlayerStars();
             revealBtn.textContent = 'Hide Answer';
         } else {
             // Hide the player
             playerNameElement.textContent = '???';
+            playerStarsElement.classList.add('hidden');
             revealBtn.textContent = 'Reveal Answer';
         }
+    }
+    
+    showPlayerStars() {
+        if (!this.currentPlayer) return;
+        
+        const playerStarsElement = document.getElementById('playerStars');
+        const titleCount = this.currentPlayer.yearsWon.length;
+        
+        // Create stars based on number of titles
+        const stars = '★'.repeat(titleCount);
+        playerStarsElement.innerHTML = `<span class="star">${stars.split('').join('</span><span class="star">')}</span>`;
+        playerStarsElement.classList.remove('hidden');
     }
     
     showGameArea() {
